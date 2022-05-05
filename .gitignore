@@ -10,3 +10,19 @@ npm-debug.log
 *.zip
 build/
 node_modules/
+jspm_packages/
+
+
+# Next.js 
+.next
+
+# Microbundle cache
+.rpt2_cache/
+.rts2_cache_cjs/
+
+
+# dotenv environment 
+.env
+
+# FuseBox cache
+.fusebox/
